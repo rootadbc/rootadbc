@@ -23,17 +23,6 @@ My work usually sits where networks, code, and humans intersect, and I’m comfo
 
 ---
 
-### 🧠 Current areas of practice
-
-- Security: web app and API testing, traffic inspection, identity/session handling, basic phishing infra  
-- Infrastructure: VPS management, DNS and Cloudflare, TLS/SSL, basic cloud primitives (compute, networking, IAM)  
-- Automation: Python/Bash scripting for repetitive tasks, utilities, and lab tooling  
-- Data & experimentation: logging, simple analysis, feedback loops to refine what I build
-
-*(This section will evolve as my focus shifts, but the foundation above stays the same.)*
-
----
-
 ### 🛠️ Tech I work with
 
 <div align="left">
@@ -58,8 +47,8 @@ My work usually sits where networks, code, and humans intersect, and I’m comfo
   <img width="12" />
 
   <!-- Cloud & infra (examples) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS logo" />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP logo" />
@@ -67,25 +56,29 @@ My work usually sits where networks, code, and humans intersect, and I’m comfo
 
 ---
 
+<br clear="both" />
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rootadbc/rootadbc/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rootadbc/rootadbc/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rootadbc/rootadbc/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+---
+
 ### 🌐 Where to find me
 
 <div align="left">
   <!-- Replace `your-handle` and links with your actual profiles -->
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ty.adebc@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
+  <ahref="https://www.instagram.com/rootadbc" target="_blank">   
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</a>
   <!-- Add/remove socials as needed -->
 </div>
 
----
-
-<br clear="both" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rootadbc/rootadbc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rootadbc/rootadbc/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rootadbc/rootadbc/output/github-contribution-grid-snake.svg" />
-</picture>
