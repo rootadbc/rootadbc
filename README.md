@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN215Y2FtaW5udThrZHJ0MXU0OHYxY21ocXZ6ZG9oaXBsZ25zdzQ2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" alt="Coding gif" />
+<img align="right" height="150" src="https://shorturl.at/lgj14" />
 
 ### 🧩 About me
 
