@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Temitayo Adebisi and I'm a technical problem solver and systems thinker from Lagos, Nigeria.</h2>
+<h2 align="left">Hi 👋! My name is Temitayo Adebisi and I'm a technical problem solver and systems thinker.</h2>
 
 ---
 
